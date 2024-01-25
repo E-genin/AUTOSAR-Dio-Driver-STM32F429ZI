@@ -1,0 +1,3 @@
+../Src/Application.c:7:6:Port_init	16	static
+../Src/Application.c:21:15:Random_level_Generator	16	static
+../Src/Application.c:32:6:Use_Case_1	24	static

@@ -1,0 +1,7 @@
+../Src/Dio.c:214:15:Dio_ReadChannel	2
+../Src/Dio.c:231:6:Dio_WriteChannel	2
+../Src/Dio.c:250:19:Dio_ReadPort	1
+../Src/Dio.c:259:6:Dio_WritePort	1
+../Src/Dio.c:267:19:Dio_ReadChannelGroup	1
+../Src/Dio.c:287:6:Dio_WriteChannelGroup	1
+../Src/Dio.c:305:15:Dio_FlipChannel	2
